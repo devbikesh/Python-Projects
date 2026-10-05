@@ -9,3 +9,4 @@ while True:
        attempts_left=6
        print("Welcome to Hangman!")
      
+print("The secret word has", len(secret_word), "letters.")
